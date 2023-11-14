@@ -1,4 +1,4 @@
-class Weather {
+export default class Weather {
     constructor(_parent, _item, _itemName, _itemwWeather) {
         this.parent = _parent;
         this.name = _itemName;
